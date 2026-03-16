@@ -1,3 +1,5 @@
+# Australian Bushfire Analysis Project 🔥🌲
+
 ## Overview
 
 This project examines and compares two of the most catastrophic bushfire seasons in Australian history: the 2008-2009 Black Saturday fires and 2019-2020 Black Summer bushfires. The first dataset captures the period where the Black Saturday fires devastated large portions of Queensland and Victoria. The second dataset encompasses the Black Summer fires, which burned over 18 million hectares nationwide and caused severe ecological and environmental damage.
